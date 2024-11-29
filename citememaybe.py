@@ -4,7 +4,6 @@ import stanza
 import unicodedata
 import pymupdf4llm
 
-from tqdm import tqdm
 from pathlib import Path
 
 MD_DIR = Path(Path.cwd(), "markdown")
